@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi1810-create&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi1810-create" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://png.pngtree.com/png-clipart/20240613/original/pngtree-cute-girl-works-at-computer-desk-png-image_15319201.png" />
+<img align="right" alt="coding" width="400" src="https://img.freepik.com/premium-photo/cute-chibi-programmer-with-laptop-code-display_1314184-14185.jpg" />
 
 
 - 🔭 I’m currently working on **Machine Learning & AI Projects**
