@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lakshmi</h1>
 <h3 align="center">A passionate Data scientist from India</h3>
 
+<img align="right" width="220px" src="https://img.freepik.com/premium-photo/cute-chibi-programmer-with-laptop-code-display_1314184-14185.jpg" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshmi1810-create&label=Profile%20views&color=0e75b6&style=flat" alt="lakshmi1810-create" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://img.freepik.com/premium-photo/cute-chibi-programmer-with-laptop-code-display_1314184-14185.jpg" /></a> </p>
 
 - 🔭 I’m currently working on **Machine Learning & AI Projects**
 
